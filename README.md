@@ -7,8 +7,10 @@
 
 # Screenshot
 
-![](images/netflixss.png)
+![](netflixss.png)
 
 # GIF
 
-![](images/Netflix.gif)
+![](Netflix.gif)
+
+
